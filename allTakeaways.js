@@ -50,7 +50,7 @@ const takeAwayStores = () => {
         city: "Middlesbrough",
         websiteUrl:
           "https://www.ordertakeaways.co.uk/shawarma-king-linthorpe_i38270-takeaway.htm",
-        telNumber: """01642822212""",
+        telNumber: "01642822212",
       },
       {
         name: "Pizza and Parmesan Shop Teesside",
@@ -58,7 +58,7 @@ const takeAwayStores = () => {
         city: "Middlesbrough",
         websiteUrl:
           "https://www.google.com/search?q=pizza+and+parmesan+shop+teesside+middlesbrough&oq=Pizza+and+Parmesan+Shop+Teesside+Midd&aqs=chrome.0.0i355i512j46i175i199i512j69i57.1187j0j7&sourceid=chrome&ie=UTF-8",
-        telNumber: """01642065155""",
+        telNumber: "01642065155",
       },
       {
         name: "Mega Bites",
@@ -66,28 +66,28 @@ const takeAwayStores = () => {
         city: "Middlesbrough",
         websiteUrl:
           "https://megabitesmiddlesbrough.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=google%20places#about",
-        telNumber: ""01642242299"",
+        telNumber: "01642242299",
       },
       {
         name: "Shawarma Shop",
         address: "135 Victoria Rd, Middlesbrough TS1 3HT",
         city: "Middlesbrough",
         websiteUrl: "http://shawarma-shop.edan.io/",
-        telNumber: ""01642247297"",
+        telNumber: "01642247297",
       },
       {
         name: "Parmesan House",
         address: "60-64 Kings Rd, North Ormesby, Middlesbrough TS3 6EP",
         city: "Middlesbrough",
         websiteUrl: "https://parmesanhouseonline.co.uk/",
-        telNumber: ""01642226969"",
+        telNumber: "01642226969",
       },
       {
         name: "Best Buy Fisheries",
         address: "172 Borough Rd, Middlesbrough TS1 2EJ",
         city: "Middlesbrough",
         websiteUrl: "https://bestbuyfisheries.com/",
-        telNumber: ""01642222777"",
+        telNumber: "01642222777",
       },
       {
         name: "Iffy's Halal Takeaway",
